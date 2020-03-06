@@ -4,7 +4,7 @@ import './updateHierarchyStyle.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPlus } from '@fortawesome/free-solid-svg-icons';
 
-export default class CreateHierarchy extends Component {
+export default class UpdateHierarchy extends Component {
   constructor() {
     super();
     this.state = {
